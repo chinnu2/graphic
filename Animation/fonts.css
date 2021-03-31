@@ -1,0 +1,19 @@
+/*
+|||||||||||||||||||||||||||||||||||||||||||||||||| 
+
+FONTS 
+
+|||||||||||||||||||||||||||||||||||||||||||||||||| 
+*/
+
+
+/* TERMINAL */
+
+@font-face {
+    font-family: 'terminal';
+    src: url('fonts/terminal/terminal.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
